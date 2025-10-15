@@ -19,4 +19,15 @@ img {
     margin-bottom: 50px;
     margin-left: 80px;
     padding: 10px;
+} 
+
+.featureBlock {
+    color: blue;
+    font-family: sans-serif; 
+    border: 10px ridge blue; 
+    padding: 10px;
+}
+
+.img {
+    border: 10px ridge blue;
 }
