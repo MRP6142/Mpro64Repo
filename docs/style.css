@@ -4,6 +4,15 @@ body {
     font-family: Comic-sans, Arial, Helvetica, sans-serif;
 }
 
+.additional {
+    overflow: auto;
+    max-height: 5em;
+    width: 500px;
+    color: blue;
+    font-family: sans-serif; 
+    border: 10px ridge blue; 
+    padding: 10px;
+}
 
 img {
     width: 59%;
