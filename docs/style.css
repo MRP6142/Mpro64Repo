@@ -4,6 +4,14 @@ body {
     font-family: Comic-sans, Arial, Helvetica, sans-serif;
 }
 
+.side-by-side{
+    display: flex;
+    gap: 10px;
+    justify-content: center; 
+    border: 10px ridge blue; 
+    padding: 10px; 
+}
+
 .additional {
     overflow: auto;
     max-height: 5em;
@@ -14,10 +22,6 @@ body {
     padding: 10px;
 }
 
-img {
-    width: 59%;
-    max-width: 500px;
-}
 
 .MainHeading {
     color: blue;
@@ -39,4 +43,6 @@ img {
 
 .img {
     border: 10px ridge blue;
+    width: 59%;
+    max-width: 500px;
 }
