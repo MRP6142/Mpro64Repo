@@ -9,10 +9,16 @@ body {
     font-size: 2em;
 }
 
-.contacts{
+.contacts{ 
+    color: blue; 
     font-family: sans-serif;
     font-size: 1.2em;
-    text-align: center;
+    text-align: center; 
+    border: 10px ridge blue; 
+    width: 750px; 
+    justify-content: center; 
+    margin-left: 275px; 
+    margin-bottom: 55px;
 }
 
 .side-by-side{
@@ -24,7 +30,6 @@ body {
 }
 
 .additional {
-    /* I have ran into problems in trying to figure out how to put in a scrollbar */
     overflow: auto;
     max-height: 5em;
     width: 500px;
