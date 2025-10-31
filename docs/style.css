@@ -2,7 +2,11 @@ body {
     padding: 50px;
     background-color: white;
     font-family: Comic-sans, Arial, Helvetica, sans-serif; 
-    display: flex;
+}
+
+.navigation{
+    font-size: 2em;
+    
 }
 
 .resume {
