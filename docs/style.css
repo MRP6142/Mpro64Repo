@@ -4,9 +4,18 @@ body {
     font-family: Comic-sans, Arial, Helvetica, sans-serif; 
 }
 
+.essay{
+    border: 10px ridge blue;
+    font-family: roman, 'times new roman', times, serif;
+    display: flex;
+    justify-content: center;
+    font-size: 1.2em; 
+    width: 1250px; 
+    padding: 10px;
+}
+
 .navigation{
     font-size: 2em;
-    
 }
 
 .resume {
