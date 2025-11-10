@@ -4,6 +4,11 @@ body {
     font-family: Comic-sans, Arial, Helvetica, sans-serif; 
 }
 
+.caption{
+    padding: 10px;
+    border: 10px ridge blue;
+}
+
 .essay{
     border: 10px ridge blue;
     font-family: roman, 'times new roman', times, serif;
