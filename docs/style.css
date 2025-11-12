@@ -2,6 +2,29 @@ body {
     padding: 50px;
     background-color: white;
     font-family: Comic-sans, Arial, Helvetica, sans-serif; 
+} 
+
+.text-analysis-page { 
+    overflow: auto;
+    max-height: 5em;
+    width: 500px;
+    font-family: sans-serif; 
+    border: 10px ridge blue; 
+    padding: 10px;
+}
+
+.textImg{
+    max-width: 500px;
+    width: 75%;
+    border: 10px ridge blue;
+}
+
+.text-analysis{
+    display: flex;
+    gap: 10px;
+    justify-content: center; 
+    border: 10px ridge blue; 
+    padding: 10px; 
 }
 
 .caption{
