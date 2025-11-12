@@ -19,14 +19,6 @@ body {
     border: 10px ridge blue;
 }
 
-.text-analysis{
-    display: flex;
-    gap: 10px;
-    justify-content: center; 
-    border: 10px ridge blue; 
-    padding: 10px; 
-}
-
 .caption{
     padding: 10px;
     border: 10px ridge blue;
