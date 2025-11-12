@@ -14,8 +14,7 @@ body {
 }
 
 .textImg {
-    max-width: 500px;
-    width: 75%;
+    width: 50%;
     border: 10px ridge blue;
 }
 
