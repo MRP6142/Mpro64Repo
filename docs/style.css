@@ -13,9 +13,9 @@ body {
     padding: 10px;
 }
 
-.textImg{
-    max-width: 500px;
-    width: 75%;
+.textImg {
+    max-width: 100px;
+    width: 50%;
     border: 10px ridge blue;
 }
 
